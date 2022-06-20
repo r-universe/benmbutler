@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "powdR"]
+	path = powdR
+	url = https://github.com/benmbutler/powdr
+	shallow = true
+	registered = true
